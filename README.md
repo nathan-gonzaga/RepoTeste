@@ -1,0 +1,1 @@
+* Testando como funciona o repositório local.
