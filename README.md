@@ -1,1 +1,3 @@
-* Testando como funciona o repositório local.
+Esse repositório foi criado totalmente com comandos Git. Nunca tinha feito isso antes...
+
+Antes eu criava o repositório remoto aqui no github e clonava para minha máquina. Mas agora aprendi a como criar meu repositório local antes do remoto e também a como enviar meus arquivos locais para esse repositório remoto.
